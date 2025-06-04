@@ -1,6 +1,6 @@
 ## Objetivo
 
-O objetivo deste projeto, construído en Nest.Js foi apresentar os princípios de CI/CD utilizando o GitHub Actions.
+O objetivo deste projeto, construído em Nest.Js foi apresentar os princípios de CI/CD utilizando o GitHub Actions.
 
 Primeiro definimos os gatilhos (triggers) que ativam o workflow:
 ```bash
